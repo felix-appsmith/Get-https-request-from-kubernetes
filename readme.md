@@ -1,5 +1,5 @@
-# How to get HTTP petions list from Kubernetes instance
-This is a brief guide on how to generate logs of the HTTPS requests that Appsmith executes when we execute a query. This can help to debug problems with the APIs executed by users.
+# How to get HTTP request list from Kubernetes pods
+This is a brief guide on how to capture logs of the HTTPS requests that Appsmith executes when we execute a query. This can help to debug problems with the APIs executed by users.
 ## Steps
 All the commands executed in the steps that we show below must be executed within the shell of the pod where Appsmith is hosted.
 1. Enabled Ubuntu repositories.
